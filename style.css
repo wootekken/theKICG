@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+body {
+    font-family: 'Single Day', cursive;
+    background-color: lightgreen;
+}
+
+.wrapper {
+    background-color: lightblue;
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+.title {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.quiz-sentence {
+    font-size: 2rem;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.score {
+    font-size: 1.2rem;
+}
+.inputFromKey {
+    width: 120px;
+    font-size: 1.2rem;
+}
+.quiz-numbering {
+    font-size: 1rem;
+}
+#ok-btn {
+    font-size: 1.2rem;
+}
+.reStartBtn {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+}
